@@ -6,6 +6,24 @@ description: Peer-reviewed articles, conference papers, preprints, and published
 nav: true
 nav_order: 3
 ---
+
+/* Reduce spacing around publication links */
+ol.bibliography .links {
+  margin-top: 2px !important;
+  margin-bottom: 0 !important;
+  padding: 0 !important;
+}
+
+ol.bibliography .links a,
+ol.bibliography .links .btn {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+ol.bibliography .links + * {
+  margin-top: 0 !important;
+}
+
 <style>
 /* Publications: clean, compact academic style */
 

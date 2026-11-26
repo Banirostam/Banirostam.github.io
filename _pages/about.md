@@ -1,34 +1,76 @@
+
 ---
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "Assistant Professor | University of Niagara Falls Canada"
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+profile: false
+selected_papers: false
+social: false
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am **Touraj BaniRostam**, an Assistant Professor at the University of Niagara Falls Canada, teaching in the Master of Computer Science in Applied Artificial Intelligence and Master of Data Analytics programs.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My academic work brings together artificial intelligence, machine learning, cognitive science, and philosophy. With over 20 years of experience in teaching and research, I have authored or co-authored more than 90 peer-reviewed publications and supervised over 80 master's theses and five PhD dissertations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research examines both the practical development of intelligent systems and the conceptual foundations and limits of artificial intelligence. I am particularly interested in how computational models represent intelligence, cognition, meaning, and consciousness.
+
+## Research Interests
+
+- Artificial Intelligence and Machine Learning
+- Explainable AI and Intelligent Decision Support Systems
+- Cognitive Science and Cognitive Architectures
+- Philosophy of Mind and Artificial Intelligence
+- Computational Cognition and the Limits of AI
+- Data Analytics and Computer Vision
+
+## Current Research and Scholarly Projects
+
+**Mind Concepts**
+
+An ongoing interdisciplinary research and educational project examining foundational concepts in mind, cognition, and artificial intelligence, including their relationships and conceptual distinctions.
+
+**Rethinking Mind**
+
+A completed research initiative examining the historical development of ideas about mind and cognition, from classical philosophy to contemporary artificial intelligence.
+
+**Book in Preparation — Springer**
+
+*Imperfect Minds, Imperfect Machines: Artificial Intelligence, Consciousness, and the Limits of Computation.*
+
+A scholarly book examining foundational limitations of computation, artificial intelligence, and theories of mind and consciousness.
+
+**Book Chapter — CRC Press / Taylor & Francis**
+
+*The Machine Learning Workflow: Risk, Losses, Validation, and Data Leakage.*
+
+A contributed chapter prepared for the forthcoming volume *Statistical Machine Learning and Deep Learning: A Case Based Approach.*
+
+## Editorial and Scholarly Activities
+
+**Guest Editor — AppliedMath (MDPI)**
+
+Special Issue: *Mathematical Models and Optimization for Intelligent Decision Support Systems.*
+
+The Special Issue focuses on mathematical modeling, optimization, and data-driven approaches to intelligent decision-making.
+
+I also contribute to academic peer review and interdisciplinary research activities across artificial intelligence, machine learning, and intelligent systems.
+
+## Academic Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=Igai5DsAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/tourajbanirostam/)
+- [Mind Concepts on Substack](https://mindconceptsproject.substack.com/)
+
+## Contact
+
+**University of Niagara Falls Canada**
+
+Email: [touraj.banirostam@unfc.ca](mailto:touraj.banirostam@unfc.ca)

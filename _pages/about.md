@@ -5,7 +5,13 @@ title: about
 permalink: /
 subtitle: "Assistant Professor | University of Niagara Falls Canada"
 
-profile: false
+profile:
+  align: right
+  image: profile.jpg
+  image_circular: false
+  more_info: >
+    <p>University of Niagara Falls Canada</p>
+    <p>Niagara Falls, Ontario, Canada</p>
 selected_papers: false
 social: false
 

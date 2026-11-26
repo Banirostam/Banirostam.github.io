@@ -1,87 +1,75 @@
----
-layout: page
-title: Publications
-permalink: /publications/
-description: Peer-reviewed articles, conference papers, preprints, and published books and translations.
-nav: true
-nav_order: 3
----
-
-This page lists my published scholarly work, conference papers, publicly available preprints, and books and translations. Journal publications and preprints are listed separately to distinguish peer-reviewed research from manuscripts deposited in repositories.
-
-## Journal Articles
-
-{% bibliography --query @article %}
-
-## Conference Papers
-
-{% bibliography --query @inproceedings %}
-
-## Preprints
-
-The following works are available as preprints or repository deposits and are not presented here as peer-reviewed journal articles.
-
-{% bibliography --query @unpublished %}
-
-## Books & Scholarly Translations
-
-This section includes co-authored books and Persian translations, including a three-chapter translation contribution. Details of individual roles are provided in each record.
-
-{% bibliography --query @book %}
-
-For additional indexing and citation information, visit my [Google Scholar profile](https://scholar.google.com/citations?user=Igai5DsAAAAJ).
-
 
 <style>
-/* Publications page: compact academic layout */
+/* Compact publications layout */
 
 ol.bibliography {
   list-style: none !important;
   padding-left: 0 !important;
-  margin: 0;
+  margin: 0 !important;
 }
 
 ol.bibliography > li {
   list-style: none !important;
-  border-bottom: 1px solid rgba(150,150,150,0.22);
-  padding: 14px 0;
+  padding: 10px 0 14px !important;
   margin: 0 !important;
-  font-size: 16px;
-  line-height: 1.55;
+  border-bottom: 1px solid rgba(150,150,150,0.18);
+  font-size: 14px !important;
+  line-height: 1.45 !important;
 }
 
 ol.bibliography > li::marker {
   content: "";
 }
 
-ol.bibliography .title {
-  font-size: 16px;
-  font-weight: 600;
-  line-height: 1.5;
+/* Article titles */
+ol.bibliography .title,
+ol.bibliography .title a {
+  font-size: 15px !important;
+  font-weight: 500 !important;
+  line-height: 1.4 !important;
 }
 
-ol.bibliography .author,
+/* Authors */
+ol.bibliography .author {
+  font-size: 14px !important;
+  line-height: 1.45 !important;
+}
+
+/* Journal and conference information */
 ol.bibliography .periodical {
-  font-size: 15px;
-  line-height: 1.5;
+  font-size: 13px !important;
+  line-height: 1.45 !important;
 }
 
+/* Publication links */
 ol.bibliography .links {
-  margin-top: 6px;
+  margin-top: 5px !important;
 }
 
 ol.bibliography .links a {
-  font-size: 13px;
+  font-size: 12px !important;
 }
 
-ol.bibliography > li:last-child {
-  border-bottom: none;
+/* Year headings */
+.publications h2,
+.publications h3 {
+  font-size: 21px !important;
+  font-weight: 400 !important;
 }
 
+/* Mobile */
 @media (max-width: 768px) {
-  ol.bibliography > li {
-    font-size: 15px;
-    padding: 12px 0;
+  ol.bibliography .title,
+  ol.bibliography .title a {
+    font-size: 14px !important;
+  }
+
+  ol.bibliography .author {
+    font-size: 13px !important;
+  }
+
+  ol.bibliography .periodical {
+    font-size: 12px !important;
   }
 }
 </style>

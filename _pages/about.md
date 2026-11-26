@@ -6,7 +6,7 @@ subtitle: "Assistant Professor | University of Niagara Falls Canada"
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.jpeg
   image_circular: false
   more_info: >
     <p>University of Niagara Falls Canada</p>

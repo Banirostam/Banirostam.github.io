@@ -69,8 +69,12 @@ I also contribute to academic peer review and interdisciplinary research activit
 - [LinkedIn](https://www.linkedin.com/in/tourajbanirostam/)
 - [Mind Concepts on Substack](https://mindconceptsproject.substack.com/)
 
+
 ## Contact
 
 **University of Niagara Falls Canada**
 
-Email: [touraj.banirostam@unfc.ca](mailto:touraj.banirostam@unfc.ca)
+Academic Email: [touraj.banirostam@unfc.ca](mailto:touraj.banirostam@unfc.ca)
+
+Personal Email: [banirostam@gmail.com](mailto:banirostam@gmail.com)
+

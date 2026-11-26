@@ -30,11 +30,9 @@ My research examines both the practical development of intelligent systems and t
 ## Research Interests
 
 - Artificial Intelligence and Machine Learning
-- Explainable AI and Intelligent Decision Support Systems
-- Cognitive Science and Cognitive Architectures
-- Philosophy of Mind and Artificial Intelligence
-- Computational Cognition and the Limits of AI
-- Data Analytics and Computer Vision
+- Data Analytics and Intelligent Decision Support Systems
+- Philosophy of Mind, Artificial Intelligence, and Cognitive Science
+- Artificial Consciousness
 
 ## Current Research and Scholarly Projects
 

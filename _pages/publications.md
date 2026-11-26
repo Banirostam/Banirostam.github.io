@@ -81,3 +81,21 @@ ol.bibliography .links a {
   }
 }
 </style>
+
+This page lists my published scholarly work, conference papers, publicly available preprints, and published books and translations. Journal articles and preprints are listed separately to distinguish peer-reviewed research from manuscripts deposited in repositories.
+
+## Journal Articles
+
+{% bibliography --query @article %}
+
+## Conference Papers
+
+{% bibliography --query @inproceedings %}
+
+## Preprints
+
+{% bibliography --query @unpublished %}
+
+## Books & Scholarly Translations
+
+{% bibliography --query @book %}

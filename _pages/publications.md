@@ -1,4 +1,13 @@
 
+---
+layout: page
+title: Publications
+permalink: /publications/
+description: Peer-reviewed articles, conference papers, preprints, and published books and translations.
+nav: true
+nav_order: 3
+---
+
 <style>
 /* Compact publications layout */
 

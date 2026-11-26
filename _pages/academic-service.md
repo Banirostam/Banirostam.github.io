@@ -23,14 +23,36 @@ The Special Issue welcomes contributions involving data-driven optimization, int
 
 ## Peer-Review Activities
 
-I have contributed as a reviewer for international academic journals, including:
 
+## Peer-Review Activities
+
+I serve as a peer reviewer for international scholarly journals in artificial intelligence, machine learning, computer science, engineering, data analytics, and related interdisciplinary fields.
+
+My reviewing activities include the following journals:
+
+- Scientific Reports
+- Journal of Ambient Intelligence and Humanized Computing
+- Neural Computing and Applications
+- Cluster Computing
+- Arabian Journal for Science and Engineering
+- Journal of Systems Architecture
 - Information Sciences
 - Computer Standards & Interfaces
-- CMC — Computers, Materials & Continua
-- Progress in Artificial Intelligence
-- Journal of Systems Architecture
+- Sustainable Computing: Informatics and Systems
+- Engineering Applications of Artificial Intelligence
+- Discover Artificial Intelligence
+- Knowledge-Based Systems
+- Information Processing & Management
+- Decision Analytics Journal
+- International Journal of Ethics and Systems
+- Computers, Materials & Continua
+- Biomimetics
 - SoftwareX
+- Mesopotamian Journal of Big Data
+- Progress in Artificial Intelligence
+- Information
+- Electronics
+- Journal of Visualized Experiments (JoVE)
 
 ## Scholarly Contributions
 
